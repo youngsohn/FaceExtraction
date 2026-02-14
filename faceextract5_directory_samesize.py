@@ -1,5 +1,5 @@
 """
-Use source ~/venv-face/bin/activate
+source ../../_cursor/../../codes/venv-face/bin/activate
 
 """
 
